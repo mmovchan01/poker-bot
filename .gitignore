@@ -8,3 +8,6 @@ weights/
 runs/
 datasets/
 screenshots/
+tools/windows_capture/*.exe
+tools/windows_capture/*.obj
+tools/windows_capture/screenshots/
