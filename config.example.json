@@ -1,0 +1,14 @@
+{
+  "weights": "weights/best.pt",
+  "window": [0, 0, 1280, 720],
+  "pot_roi": [0.42, 0.32, 0.16, 0.06],
+  "call_roi": [0.73, 0.83, 0.10, 0.06],
+  "stack_roi": [0.43, 0.87, 0.14, 0.06],
+  "board_y": [0.25, 0.65],
+  "hero_y": [0.65, 1.0],
+  "confidence": 0.5,
+  "iterations": 2500,
+  "margin": 0.03,
+  "poll_seconds": 0.5,
+  "dry_run": true
+}

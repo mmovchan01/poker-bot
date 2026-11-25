@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+config.json
+poker_history.db*
+hands_log.csv
+weights/
+runs/
+datasets/
+screenshots/
