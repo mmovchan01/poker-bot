@@ -1,0 +1,420 @@
+{
+  "status": "partial_draft_not_for_training",
+  "note": "Приблизительные рамки видимой лицевой области карты; только герой и борд. Кнопки, дилер, соперники и прочие кадры не размечены. Проверить на исходных PNG; не использовать для YOLO как полную разметку.",
+  "reference_dimensions": [
+    1568,
+    882
+  ],
+  "card_classes_in_draft": [
+    "2c",
+    "2d",
+    "4c",
+    "4d",
+    "4h",
+    "7c",
+    "8c",
+    "8h",
+    "9h",
+    "Ts",
+    "Jd",
+    "Qc",
+    "Kc",
+    "Ad",
+    "As"
+  ],
+  "missing_card_classes_in_draft": [
+    "2h",
+    "2s",
+    "3c",
+    "3d",
+    "3h",
+    "3s",
+    "4s",
+    "5c",
+    "5d",
+    "5h",
+    "5s",
+    "6c",
+    "6d",
+    "6h",
+    "6s",
+    "7d",
+    "7h",
+    "7s",
+    "8d",
+    "8s",
+    "9c",
+    "9d",
+    "9s",
+    "Tc",
+    "Td",
+    "Th",
+    "Jc",
+    "Jh",
+    "Js",
+    "Qd",
+    "Qh",
+    "Qs",
+    "Kd",
+    "Kh",
+    "Ks",
+    "Ac",
+    "Ah"
+  ],
+  "frames": [
+    {
+      "file": "images/screen_20261126_152737_056512_7073f67b.webp",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "boxes": [
+        {
+          "class": "Jd",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.541454,
+            0.643991,
+            0.558673,
+            0.710884
+          ]
+        },
+        {
+          "class": "4d",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.558673,
+            0.643991,
+            0.586735,
+            0.710884
+          ]
+        },
+        {
+          "class": "4c",
+          "role": "board",
+          "xyxy_normalized": [
+            0.425383,
+            0.433107,
+            0.453444,
+            0.498866
+          ]
+        },
+        {
+          "class": "Kc",
+          "role": "board",
+          "xyxy_normalized": [
+            0.455357,
+            0.433107,
+            0.483418,
+            0.498866
+          ]
+        },
+        {
+          "class": "4h",
+          "role": "board",
+          "xyxy_normalized": [
+            0.485332,
+            0.433107,
+            0.513393,
+            0.498866
+          ]
+        }
+      ]
+    },
+    {
+      "file": "images/screen_20261126_152903_208373_97c756e6.webp",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "boxes": [
+        {
+          "class": "9h",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.541454,
+            0.643991,
+            0.558673,
+            0.710884
+          ]
+        },
+        {
+          "class": "Ad",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.558673,
+            0.643991,
+            0.586735,
+            0.710884
+          ]
+        },
+        {
+          "class": "8h",
+          "role": "board",
+          "xyxy_normalized": [
+            0.425383,
+            0.433107,
+            0.453444,
+            0.498866
+          ]
+        },
+        {
+          "class": "Ts",
+          "role": "board",
+          "xyxy_normalized": [
+            0.455357,
+            0.433107,
+            0.483418,
+            0.498866
+          ]
+        },
+        {
+          "class": "4c",
+          "role": "board",
+          "xyxy_normalized": [
+            0.485332,
+            0.433107,
+            0.513393,
+            0.498866
+          ]
+        }
+      ]
+    },
+    {
+      "file": "images/screen_20261126_152934_250599_52f7bff2.webp",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "boxes": [
+        {
+          "class": "9h",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.541454,
+            0.643991,
+            0.558673,
+            0.710884
+          ]
+        },
+        {
+          "class": "Ad",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.558673,
+            0.643991,
+            0.586735,
+            0.710884
+          ]
+        },
+        {
+          "class": "8h",
+          "role": "board",
+          "xyxy_normalized": [
+            0.425383,
+            0.433107,
+            0.453444,
+            0.498866
+          ]
+        },
+        {
+          "class": "Ts",
+          "role": "board",
+          "xyxy_normalized": [
+            0.455357,
+            0.433107,
+            0.483418,
+            0.498866
+          ]
+        },
+        {
+          "class": "4c",
+          "role": "board",
+          "xyxy_normalized": [
+            0.485332,
+            0.433107,
+            0.513393,
+            0.498866
+          ]
+        },
+        {
+          "class": "As",
+          "role": "board",
+          "xyxy_normalized": [
+            0.515944,
+            0.433107,
+            0.544005,
+            0.498866
+          ]
+        }
+      ]
+    },
+    {
+      "file": "images/screen_20261126_152938_367921_aed8e536.webp",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "boxes": [
+        {
+          "class": "9h",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.541454,
+            0.643991,
+            0.558673,
+            0.710884
+          ]
+        },
+        {
+          "class": "Ad",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.558673,
+            0.643991,
+            0.586735,
+            0.710884
+          ]
+        },
+        {
+          "class": "8h",
+          "role": "board",
+          "xyxy_normalized": [
+            0.425383,
+            0.433107,
+            0.453444,
+            0.498866
+          ]
+        },
+        {
+          "class": "Ts",
+          "role": "board",
+          "xyxy_normalized": [
+            0.455357,
+            0.433107,
+            0.483418,
+            0.498866
+          ]
+        },
+        {
+          "class": "4c",
+          "role": "board",
+          "xyxy_normalized": [
+            0.485332,
+            0.433107,
+            0.513393,
+            0.498866
+          ]
+        },
+        {
+          "class": "As",
+          "role": "board",
+          "xyxy_normalized": [
+            0.515944,
+            0.433107,
+            0.544005,
+            0.498866
+          ]
+        },
+        {
+          "class": "2c",
+          "role": "board",
+          "xyxy_normalized": [
+            0.545918,
+            0.433107,
+            0.57398,
+            0.498866
+          ]
+        }
+      ]
+    },
+    {
+      "file": "images/screen_20261126_153620_060085_b9edea53.webp",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "boxes": [
+        {
+          "class": "9h",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.541454,
+            0.643991,
+            0.558673,
+            0.710884
+          ]
+        },
+        {
+          "class": "2d",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.558673,
+            0.643991,
+            0.586735,
+            0.710884
+          ]
+        },
+        {
+          "class": "2c",
+          "role": "board",
+          "xyxy_normalized": [
+            0.425383,
+            0.433107,
+            0.453444,
+            0.498866
+          ]
+        },
+        {
+          "class": "7c",
+          "role": "board",
+          "xyxy_normalized": [
+            0.455357,
+            0.433107,
+            0.483418,
+            0.498866
+          ]
+        },
+        {
+          "class": "8c",
+          "role": "board",
+          "xyxy_normalized": [
+            0.485332,
+            0.433107,
+            0.513393,
+            0.498866
+          ]
+        }
+      ]
+    },
+    {
+      "file": "images/screen_20261126_153808_317371_5740bbc6.webp",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "boxes": [
+        {
+          "class": "Qc",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.541454,
+            0.643991,
+            0.558673,
+            0.710884
+          ]
+        },
+        {
+          "class": "4d",
+          "role": "hero",
+          "xyxy_normalized": [
+            0.558673,
+            0.643991,
+            0.586735,
+            0.710884
+          ]
+        }
+      ]
+    }
+  ]
+}
